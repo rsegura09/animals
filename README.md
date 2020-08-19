@@ -1,2 +1,2 @@
 # animals
-Ejemplo POO
+ejemplo POO
